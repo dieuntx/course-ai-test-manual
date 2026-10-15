@@ -1,0 +1,5 @@
+1. Nagigate to url
+2. Enter email
+3. Enter password
+4. Click login button
+5. Verify redirect to Dashboard page
